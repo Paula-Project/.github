@@ -1,1 +1,1 @@
-# .github
+In this work will be presented the process of development of PAULA (Digital program for Literacy), an education application for mobile devices, which will work on literacy for young people and adults initially in Paranoá - Administrative Region of the Federal District. The user journey will be guided by a digital, youthful-looking instructor representing the locality, nicknamed Paula.
